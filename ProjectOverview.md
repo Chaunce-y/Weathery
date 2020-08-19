@@ -14,9 +14,54 @@ api.openweathermap.org/data/2.5/weather?q=Manhattan,ny,us&APPID=****************
 
 Data Sample:
 
-{"coord":{"lon":-73.97,"lat":40.78},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"base":"stations","main":{"temp":294.56,"feels_like":294.45,"temp_min":292.59,"temp_max":296.15,"pressure":1014,"humidity":68},"visibility":10000,"wind":{"speed":2.6,"deg":0},"rain":{"1h":0.64},"clouds":{"all":75},"dt":1597843797,"sys":{"type":1,"id":5141,"country":"US","sunrise":1597831839,"sunset":1597880907},"timezone":-14400,"id":5125771,"name":"Manhattan","cod":200}
+{
+    "coord": {
+        "lon": -73.97,
+        "lat": 40.78
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.56,
+        "feels_like": 294.45,
+        "temp_min": 292.59,
+        "temp_max": 296.15,
+        "pressure": 1014,
+        "humidity": 68
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.6,
+        "deg": 0
+    },
+    "rain": {
+        "1h": 0.64
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1597843797,
+    "sys": {
+        "type": 1,
+        "id": 5141,
+        "country": "US",
+        "sunrise": 1597831839,
+        "sunset": 1597880907
+    },
+    "timezone": -14400,
+    "id": 5125771,
+    "name": "Manhattan",
+    "cod": 200
+}
 
-## Wireframes
+### Wireframe
 
 Wireframe Link - https://wireframe.cc/pro/pp/0eb427357366804
 
