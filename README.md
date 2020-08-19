@@ -61,7 +61,7 @@ Data Sample:
     "cod": 200
 }
 
-### [Wireframe](../master/Weatherly%20Wireframe.pdf)
+### [Wireframe](../master/Weathery%20Wireframe.pdf)
 
 ### MVP/PostMVP  
 
