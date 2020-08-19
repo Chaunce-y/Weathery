@@ -61,25 +61,20 @@ Data Sample:
     "cod": 200
 }
 
-### Wireframe
+### [Wireframe](../master/Weatherly%20Wireframe.pdf)
 
-Wireframe Link - https://wireframe.cc/pro/pp/0eb427357366804
-
-### MVP/PostMVP
-
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
+### MVP/PostMVP  
 
 #### MVP 
-*These are examples only. Replace with your own MVP features.*
 
 - Find and use external api 
 - Render data on page 
 - Allow user to search cities
 - Display main search results as well as 7 day forecast 
 - Have list of filters (display 5 day past or 7 day future) and result display options (F/C conversion)
+- Style Page
 
 #### PostMVP  
-*These are examples only. Replace with your own Post-MVP features.*
 
 - Add second API
 - Use local storage to save user location
@@ -100,15 +95,9 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |August 20| MVP | Incomplete
 |August 21| Presentations | Incomplete
 
-## Priority Matrix
-
-[Priority Matrix] (https://github.com/Chaunce-y/Weathery/blob/master/Priority%20Matrix.pdf)
+## [Priority Matrix](../master/Priority%20Matrix.pdf)
 
 ## Timeframes
-
-Tell us how long you anticipate spending on each area of development. Be sure to consider how many hours a day you plan to be coding and how many days you have available until presentation day.
-
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe. Throughout your project, keep track of your Time Invested and Actual Time and update your README regularly.
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
@@ -119,13 +108,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
 
-```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
-```
 
 ## Change Log
- Use this section to document what changes were made and the reasoning behind those changes.  
+  
