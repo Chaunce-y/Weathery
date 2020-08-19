@@ -102,7 +102,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matrix.  Link this image in a similar manner to your wireframes
+[Priority Matrix] (https://github.com/Chaunce-y/Weathery/blob/master/Priority%20Matrix.pdf)
 
 ## Timeframes
 
