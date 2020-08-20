@@ -6,7 +6,7 @@ Weathery
 
 ## Project Description
 
-This app will allow the user to look up the previous and future weather forecast for any city, from 5 days in the past to 10 days in the future. It will also provide weather forcasts in some cities down to the minute.
+This app will allow the user to look up the current weather forecast for any city, complete with high/low temp, precipitation, sunrise/sunset timings and RealFeel temperature.
 
 ## API and Data Sample
 
@@ -67,14 +67,13 @@ Data Sample:
 
 ### MVP 
 
-- Find and use external api 
-- Render data on page 
-- Allow user to search cities
-- Display main search results as well as 7 day forecast 
-- Style Page
+- Code 
+- Allow user to search city
+- Style page with responsive design elements
 
 ### PostMVP  
 
+- Display main search results as well as 7 day forecast
 - Add second API
 - Use local storage to save user location
 - add feature that uses user's location to find information
@@ -99,7 +98,7 @@ Data Sample:
 | --- | :---: |  :---: | :---: | :---: |
 | Designing and psuedocoding application | H | 6hrs| hrs | hrs |
 | Working with API | M | 3hrs| hrs | hrs |
-| Building Core Application Structure | H | 7hrs | hrs | hrs |
+| Build JS and HTML files | H | 4hrs | hrs | hrs
 | CSS Styling | M | 3hrs | hrs | hrs |
 | Add extra features outlined in PMVP | M | 5hrs | hrs | hrs |
 | Total | H | 21hrs| hrs | hrs |
