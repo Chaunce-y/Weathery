@@ -71,7 +71,6 @@ Data Sample:
 - Render data on page 
 - Allow user to search cities
 - Display main search results as well as 7 day forecast 
-- Have list of filters (display 5 day past or 7 day future) and result display options (F/C conversion)
 - Style Page
 
 ### PostMVP  
@@ -79,12 +78,9 @@ Data Sample:
 - Add second API
 - Use local storage to save user location
 - add feature that uses user's location to find information
+- Have list of filters (display 5 day past or 7 day future) and result display options (F/C conversion)
 
 ## Project Schedule
-
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
 
 |  Day | Deliverable | Status
 |---|---| ---|
@@ -101,10 +97,11 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
+| Designing and psuedocoding application | H | 6hrs| hrs | hrs |
 | Working with API | H | 3hrs|  |  |
-| Building Core Application Structure | H | 5hrs | | |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Building Core Application Structure | H | 7hrs |  |  |
+| Add extra features outlined in PMVP | M | 5hrs |  |  |
+| Total | H | 21hrs| hrs | hrs |
 
 ## Code Snippet
 
