@@ -98,8 +98,9 @@ Data Sample:
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Designing and psuedocoding application | H | 6hrs| hrs | hrs |
-| Working with API | H | 3hrs| hrs | hrs |
+| Working with API | M | 3hrs| hrs | hrs |
 | Building Core Application Structure | H | 7hrs | hrs | hrs |
+| CSS Styling | M | 3hrs | hrs | hrs |
 | Add extra features outlined in PMVP | M | 5hrs | hrs | hrs |
 | Total | H | 21hrs| hrs | hrs |
 
