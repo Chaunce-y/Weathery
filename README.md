@@ -61,11 +61,11 @@ Data Sample:
     "cod": 200
 }
 
-### [Wireframe](../master/Weathery%20Wireframe.pdf)
+## [Wireframe](../master/Weathery%20Wireframe.pdf)
 
-### MVP/PostMVP  
+## MVP/PostMVP  
 
-#### MVP 
+### MVP 
 
 - Find and use external api 
 - Render data on page 
@@ -74,7 +74,7 @@ Data Sample:
 - Have list of filters (display 5 day past or 7 day future) and result display options (F/C conversion)
 - Style Page
 
-#### PostMVP  
+### PostMVP  
 
 - Add second API
 - Use local storage to save user location
