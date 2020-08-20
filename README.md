@@ -88,7 +88,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|August 14-16| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
+|August 14-16| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
 |August 17| Project Approval | Incomplete
 |August 18| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |August 19| Initial Clickable Model  | Incomplete
@@ -102,7 +102,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
+| Working with API | H | 3hrs|  |  |
 | Building Core Application Structure | H | 5hrs | | |
 | Total | H | 6hrs| 5hrs | 5hrs |
 
