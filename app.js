@@ -1,7 +1,7 @@
 const input = document.querySelector('input')
 const button = document.querySelector('#button')
 const base_url = `https://api.openweathermap.org/data/2.5/weather?`
-const apiKey = 'ecd832da2a7d0869bb43a972a4a4fbe0'
+const apiKey = '***********************'
 const url = `${base_url} + ${city} + "," ${state} + "," + ${country}` 
 // console.log(url)
 
