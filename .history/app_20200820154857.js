@@ -1,1 +1,0 @@
-const weatherIcon = document.querySelector('')

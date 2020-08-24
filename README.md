@@ -6,7 +6,7 @@ Weathery
 
 ## Project Description
 
-This app will allow the user to look up the previous and future weather forecast for any city, from 5 days in the past to 10 days in the future. It will also provide weather forcasts in some cities down to the minute.
+This app will allow the user to look up the previous and future weather forecast for any city, from 5 days in the past to 10 days in the future. It will also provide weather forecasts in some cities down to the minute.
 
 ## API and Data Sample
 
@@ -108,7 +108,7 @@ Include a full list of features that have been prioritized based on the `Time an
 
 Tell us how long you anticipate spending on each area of development. Be sure to consider how many hours a day you plan to be coding and how many days you have available until presentation day.
 
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe. Throughout your project, keep track of your Time Invested and Actual Time and update your README regularly.
+Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evaluate game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe. Throughout your project, keep track of your Time Invested and Actual Time and update your README regularly.
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
