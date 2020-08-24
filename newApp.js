@@ -3,7 +3,7 @@
 // const input = document.querySelector('input').value
 // const button = document.querySelector('#button')
 
-const apiKey = '&APPID=ecd832da2a7d0869bb43a972a4a4fbe0'
+const apiKey = '&APPID=*'
 const city = document.querySelector('#submit').addEventListener('click', function(e){
     e.preventDefault()
     console.log("IT WORKS!!!!!!")
